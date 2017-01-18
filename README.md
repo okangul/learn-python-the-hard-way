@@ -70,3 +70,30 @@ print "Is it less or equal?", 5 <= -2
 - This exercise teach us the basic math calculations with python
 - With study drills I worked on floating numbers so to find the exact answers of the calculations
 - To work with floating numbers assing them as 5.2
+
+Exercise 4 - Variables and Names
+
+- Tricks to solve problems when you get stuck with the exercises: 
+ 1- Write comment on every line to explain yourself what you are doing
+ 2- Read your .py file backwards
+ 3- Read your .py file out loud, saying even the characters
+
+- ex4.py contains:
+cars = 100
+space_in_a_car = 4.0
+drivers = 30
+passengers = 90
+cars_not_driven = cars - drivers
+cars_driven = drivers
+carpool_capacity = cars_driven * space_in_a_car
+average_passengers_per_car = passengers / cars_driven
+
+
+print "There are", cars, "cars available."
+print "There are only", drivers, "drivers available."
+print "There will be", cars_not_driven, "empty cars available."
+print "We can transport", carpool_capacity, "people today."
+print "We have", passengers, "to carpool today."
+print "We need to put about", average_passengers_per_car, "in each car."
+
+- This section help us to learn using variables and use them wisely to code clearly and easily
