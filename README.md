@@ -8,6 +8,7 @@ Exercise 0
 Exercise 1 - A Good First Program
 
 - ex1.py file contains:
+```
 print "Hello World"
 print "Hello Again"
 print "I like typing this"
@@ -15,6 +16,7 @@ print "This is fun."
 print "Yay! Printing."
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
+```
 
 - First exercise try to show how to use text editor and commandline as a start
 - Study Drills:
@@ -25,6 +27,7 @@ print 'I "said" do not touch this.'
 Exercise 2 - Comments and Pound Characters
 
 - ex2.py contains:
+```
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python.
 
@@ -34,6 +37,7 @@ print "I could have code like this. "  # and the comment after is ignored
 # print "This won't run."
 
 print "This will run."
+```
 
 - Second exercise tell us how important comments are
 - Try to show the general usage of # 
@@ -42,7 +46,8 @@ print "This will run."
 
 Exercise 3 - Numbers and Math
 
-- ex3.py contains: 
+- ex3.py contains:
+``` 
 print "I will now count my chickens:"
 
 print "Hens", 25 + 30 / 6
@@ -66,6 +71,7 @@ print "How about some more."
 print "Is it greater?", 5 > -2
 print "Is it greator or equal?", 5 >= -2
 print "Is it less or equal?", 5 <= -2
+```
 
 - This exercise teach us the basic math calculations with python
 - With study drills I worked on floating numbers so to find the exact answers of the calculations
@@ -79,6 +85,7 @@ Exercise 4 - Variables and Names
  3- Read your .py file out loud, saying even the characters
 
 - ex4.py contains:
+```
 cars = 100
 space_in_a_car = 4.0
 drivers = 30
@@ -95,5 +102,6 @@ print "There will be", cars_not_driven, "empty cars available."
 print "We can transport", carpool_capacity, "people today."
 print "We have", passengers, "to carpool today."
 print "We need to put about", average_passengers_per_car, "in each car."
+```
 
 - This section help us to learn using variables and use them wisely to code clearly and easily
