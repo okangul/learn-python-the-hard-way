@@ -21,3 +21,21 @@ print 'I "said" do not touch this.'
   - Add new print line
   - Print just one line
   - What is #
+
+Exercise 2 - Comments and Pound Characters
+
+- ex2.py contains:
+# A comment, this is so you can read your program later.
+# Anything after the # is ignored by python.
+
+print "I could have code like this. "  # and the comment after is ignored
+
+# You can also use a comment to "disable" or comment out a piece of code:
+# print "This won't run."
+
+print "This will run."
+
+- Second exercise tell us how important comments are
+- Try to show the general usage of # 
+- Study Drills:
+  - Read the code backwards (This helps programmers brain to not attach the meaning of each part)
