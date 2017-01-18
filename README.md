@@ -1,11 +1,11 @@
 # learn-python-the-hard-way
 
-Exercise 0
+## Exercise 0 - Setup
 
 - Author gives instructions for Python setup (OSX, Microsoft and Linux)
 - Author suggests TextWrangler text editor for OSX
 
-Exercise 1 - A Good First Program
+## Exercise 1 - A Good First Program
 
 - ex1.py file contains:
 ```
@@ -24,7 +24,7 @@ print 'I "said" do not touch this.'
   - Print just one line
   - What is #
 
-Exercise 2 - Comments and Pound Characters
+## Exercise 2 - Comments and Pound Characters
 
 - ex2.py contains:
 ```
@@ -44,7 +44,7 @@ print "This will run."
 - Study Drills:
   - Read the code backwards (This helps programmers brain to not attach the meaning of each part)
 
-Exercise 3 - Numbers and Math
+## Exercise 3 - Numbers and Math
 
 - ex3.py contains:
 ``` 
@@ -77,7 +77,7 @@ print "Is it less or equal?", 5 <= -2
 - With study drills I worked on floating numbers so to find the exact answers of the calculations
 - To work with floating numbers assing them as 5.2
 
-Exercise 4 - Variables and Names
+## Exercise 4 - Variables and Names
 
 - Tricks to solve problems when you get stuck with the exercises: 
  1- Write comment on every line to explain yourself what you are doing
